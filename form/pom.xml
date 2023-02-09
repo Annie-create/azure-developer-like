@@ -82,10 +82,10 @@
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>16cfc856-c2f1-4103-80c3-8deba1743963</subscriptionId>
           <resourceGroup>rg_trainee_08</resourceGroup>
-          <appName>afklmsslr082023</appName>
+          <appName>azuredev-trainee08</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
-          <appServicePlanName>afklmsslr082023</appServicePlanName>
+          <appServicePlanName>af-klm-az-204-asp-trainee08</appServicePlanName>
           <appServicePlanResourceGroup>rg_trainee_08</appServicePlanResourceGroup>
           <runtime>
             <os>Linux</os>

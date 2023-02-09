@@ -9,9 +9,7 @@
 <body>
 	<h1 th:text="${appTitle}" class="app-title"> </h1>
 	<h3 th:text="|Hello ${userName}|"> </h3>
-	<h1 th:text="${appTitle}" class="app-title"> </h1>
     <p>
-        <hr noshade width="80%"  align="left">
         <hr noshade width="80%"  align="left">
     </p>
     <form action="#" th:action="@{/save}" th:object="${form}" method="post">
